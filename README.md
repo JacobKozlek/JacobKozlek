@@ -1,10 +1,10 @@
-- 👋 Hey All, I’m @JacobKozlek
-- 👀 I’m interested in Photography, Computers, and Graphic Design!
-- 🌱 I’m currently at Bloomsburg University for Computer Science. 
-- 💞️ I’m looking to collaborate on any cool and interesting coding projects.
-- 📫 You can reach me on my Social Media (https://beacons.ai/jacobkozlek)
+# Jacob Kozlek
 
-<!---
-JacobKozlek/JacobKozlek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at Commonwealth University – Bloomsburg who enjoys building things, taking photos, and digging into how tech works under the hood.  
+Outside of code, you’ll usually find me in editing software, hanging out with my dog, or playing guitar.
+
+### What I'm into
+- Java, PowerShell, C, C++  
+- Photography, Cameras, and Post-Processing  
+- 3D and Graphic Design  
+- Music & Audio Software
